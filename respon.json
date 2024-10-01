@@ -1,0 +1,25 @@
+
+
+
+[
+    {
+        "id": 1,
+        "name": "gula aren",
+        "harga":  17000,
+        "gambar": "img/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "capucino amrecano",
+        "harga": 20000,
+        "gambar":"img/2.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "capucino ",
+        "harga": 25000,
+        "gambar":"img/3.jpg"
+
+    }
+]
